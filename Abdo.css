@@ -1,0 +1,27 @@
+body{
+    background-color: gold;
+}
+
+.h1{
+    background-color: black;
+    color: aqua;
+    width: 50%;
+    margin:auto
+}
+
+.p{
+    color:deepskyblue;
+    background-color:darkred ;
+    font-size: 20px;
+}
+.ul{
+    width: 70%;
+    margin:auto;
+    background-color:peachpuff ;
+    color: blue;
+    font-size: 20px;
+}
+
+.img{
+    
+}
